@@ -1,2 +1,2 @@
 # hello-world
-はじめてのGit Hub
+はじめてのGit Hub :coffee:
